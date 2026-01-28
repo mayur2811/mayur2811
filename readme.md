@@ -143,8 +143,6 @@ Integrated Cashfree payment gateway with webhook handling for transaction status
 ## 🏆 Achievements & Certifications
 
 - 🔷 **Solidity Developer** @ iEscrow.io - Working on production smart contracts
-- 💻 **41+ GitHub Repositories** - Learning by building in public
-- 🎯 **150+ LeetCode Problems** Solved
 - 🏅 **HackerRank Java Certification**
 - 🎓 **Deloitte Technology Job Simulation** (Forage) - Data Analytics
 - 📊 **IBM Skillsbuild Data Analytics Internship** (CSRBOX) - 3 months
